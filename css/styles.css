@@ -1,0 +1,44 @@
+body {
+
+    text-align: center;
+
+   /* height: 100vh;
+    /*background: linear-gradient(170deg, #9669C9 50%, #3B2059 50% );
+    background: linear-gradient(to left top, #3B2059 30%, #9669C9); */
+
+}
+
+.top-container{
+    position: relative;
+    padding: 100px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 400px;
+
+}
+
+.top-cloud{
+    position: absolute ;
+    right: 200px;
+    top: 50px;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: monospace;
+}
+
+.hello_world-gif{
+    width: 30%;
+}
+
+.SwiftLanguage-img{
+    width: 10%;
+    margin: 10px;
+}
